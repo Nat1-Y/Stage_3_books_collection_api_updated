@@ -1,4 +1,4 @@
-const Book = require('../models/book');
+const Book = require('../models/Book');
 
 // Get all books (Admin only)
 const getAllBooks = async (req, res) => {

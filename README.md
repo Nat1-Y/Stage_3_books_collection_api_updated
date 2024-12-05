@@ -39,7 +39,7 @@ A **RESTful API** for managing a collection of books. This API allows users to p
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Nat1-Y/Stage_3_books_collection_api_updated/tree/main>
    cd Stage_3_books_collection_api_updated
 Install Dependencies:
 
